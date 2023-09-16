@@ -1,0 +1,18 @@
+The DOCTYPE Declaration tells web browsers what version of HTML is being used in a webpage.
+Using the right DOCTYPE helps prevent issues and errors when building webpages.
+
+for eg -
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>HTML defines the content and structure of your website</h1>
+  </body>
+</html>
+
+Here the <!DOCTYPE html> indicates that the web page is using HTML5( which is the latest version of HTML).
+Basicall ,The declaration wants to make sure that browsers interpret the document as HTML5. 
