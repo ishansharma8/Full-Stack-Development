@@ -1,0 +1,6 @@
+The purpose of comments in HTML is to provide a way to add some explanation or informational text to our code without having that content getting rendered on the webpage.
+When we write a comment ,for eg like this  <!-- demo comment -->, the content inside the comment tags will not be displayed in the rendered webpage.
+This comment can be of help for developers, designers, or anyone else who reads the HTML source code to understand or wants to find some context about the code.
+So basically ,comments can be used for explanation or documentation purpose ,(as the content does not get rendered on the webpage), and provide context to other people/Team members who are working with the code
+
+For eg !-- Hello world -->
