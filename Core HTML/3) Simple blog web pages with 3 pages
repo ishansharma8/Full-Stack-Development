@@ -1,0 +1,69 @@
+Home.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+  </head>
+  <body>
+    <a href="./Home.html">Home || </a>
+    <a href="./Web Devlopement.html">Web Development || </a>
+    <a href="./Web Design.html">Web Design</a>
+    <h1>HOME</h1>
+    <p>
+      Myself Ishan Sharma, Currently a Software Enginner. where i work on
+      technologies .NET ,SQL ,Azure and Javascript. I am experienced in data
+      structures and algorithms and web development.
+    </p>
+  </body>
+</html>
+
+--------------------
+Web Development.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Development</title>
+  </head>
+  <body>
+    <a href="./Home.html">Home || </a>
+    <a href="./Web Devlopement.html">Web Development || </a>
+    <a href="./Web Design.html">Web Design</a>
+    <h1>Web Development</h1>
+    <p>
+      Web development is the process of building, programming, and maintaining
+      websites and web applications. Website developers use various programming
+      languages, like HTML, CSS, and JavaScript, to develop websites and web
+      applications.
+    </p>
+  </body>
+</html>
+
+------------------------------
+Web Design.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Design</title>
+  </head>
+  <body>
+    <a href="./Home.html">Home || </a>
+    <a href="./Web Devlopement.html">Web Development || </a>
+    <a href="./Web Design.html">Web Design</a>
+    <h1>Web Design</h1>
+    <p>
+      Web designing is the process of planning, conceptualizing, and
+      implementing the plan for designing a website in a way that is functional
+      and offers a good user experience. User experience is central to the web
+      designing process.
+    </p>
+  </body>
+</html>
+
+
+
